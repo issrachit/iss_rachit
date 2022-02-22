@@ -7,11 +7,3 @@ Excel | PostgreSQL | Power BI | Pandas | Numpy | Matplotlib | Seaborn
 
 - 📫 How to reach me: rachitpandya2@gmail.com 
 - ⚡ Fun fact: A strange talent that you can have. 
-
-
-
-
-
-
-- 
-
